@@ -1,6 +1,6 @@
 # Qhull Library Renderer
 
-This is my OpenGL toy project which basically follows [Computer Graphics Programming in OpenGL with C++ 2nd Edition](https://www.amazon.com/Computer-Graphics-Programming-OpenGL-Second-ebook/dp/B08QTZYVR4), which renders vertices randomly generated from the library [Qhull library](Qhull.org).
+This is my OpenGL toy project which basically follows [Computer Graphics Programming in OpenGL with C++ 2nd Edition](https://www.amazon.com/Computer-Graphics-Programming-OpenGL-Second-ebook/dp/B08QTZYVR4), which renders vertices randomly generated from the library [Qhull library](https://www.qhull.org).
 
 ## How to use
 
