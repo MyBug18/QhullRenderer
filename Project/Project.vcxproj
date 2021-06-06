@@ -149,8 +149,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Textbook\Files\Programs\Chapter_02_opengl\Prog2_6_animation\Utils.cpp" />
-    <ClCompile Include="..\..\Textbook\Files\Programs\Chapter_04_pipeline\Prog4_4_matrixStack\main.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Utils.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="fragShader.glsl" />
